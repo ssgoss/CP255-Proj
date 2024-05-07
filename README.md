@@ -1,1 +1,1 @@
-# CP255-Proj
+# Goss CP255 Final Project
