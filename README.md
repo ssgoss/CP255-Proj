@@ -23,7 +23,7 @@ The SFMTA currently maintains records of the location of many curb uses, includi
 
 ### Analysis:
 
-The 2014 Accessible Parking Policy Advisory Committee Report stated that there were 700 unmetered on-street blue zones in the city. Relative to metered parking spaces in the city, the percentage of blue zones has decreased since the 2014 report from 2.5 percent to 2.13 percent. The average Euclidian distance (i.e. as the crow flies) between blue zones throughout the city is 338 ft. (Figure 5)
+The 2014 Accessible Parking Policy Advisory Committee Report stated that there were 700 unmetered on-street blue zones in the city. Relative to metered parking spaces in the city, the percentage of blue zones has decreased since the 2014 report from 2.5 percent to 2.13 percent. The average Euclidian distance (i.e. as the crow flies) between blue zones throughout the city is 338 ft. 
 
 ![](https://lh7-us.googleusercontent.com/Y8uTIA87sBtF5Ylha-yC4w4D_w1C8Nb3M3EG6hN1ny1_q6ZtvyMuBWWMMQa9_LZrosS7bIHX0XbGYkIZ1EdsFc24ZXv1H_4t_hoVk4-mVOrJFWfurTtceonov0nkVjucN3N6I6gZ6RtFWBHkJ0MyDnw)
 
